@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ActionGame",
+			"Path": "D:\\Disk D\\Unreal\\CPP_pro\\UnrealCPPPrototypes\\ActionGame\\Source\\ActionGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ActionGameEditor",
+			"Path": "D:\\Disk D\\Unreal\\CPP_pro\\UnrealCPPPrototypes\\ActionGame\\Source\\ActionGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

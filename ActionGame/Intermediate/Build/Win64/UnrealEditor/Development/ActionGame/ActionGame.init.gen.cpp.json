@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\disk d\\unreal\\cpp_pro\\unrealcppprototypes\\actiongame\\intermediate\\build\\win64\\unrealeditor\\inc\\actiongame\\actiongame.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\disk d\\unreal\\cpp_pro\\unrealcppprototypes\\actiongame\\intermediate\\build\\win64\\actiongameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\disk d\\unreal\\cpp_pro\\unrealcppprototypes\\actiongame\\intermediate\\build\\win64\\unrealeditor\\development\\actiongame\\definitions.actiongame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
