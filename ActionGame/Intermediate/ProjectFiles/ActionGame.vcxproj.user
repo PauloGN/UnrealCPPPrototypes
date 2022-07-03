@@ -4,15 +4,17 @@
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame_Editor|x64'">
-    <LocalDebuggerCommandArguments>"$(SolutionDir)ActionGame.uproject" -skipcompile</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>"D:\Disk D\Unreal\CPP_pro\UnrealCPPPrototypes\ActionGame\ActionGame.uproject" -skipcompile</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <RemoteDebuggerCommandArguments>"D:\Disk D\Unreal\CPP_pro\UnrealCPPPrototypes\ActionGame\ActionGame.uproject" -skipcompile</RemoteDebuggerCommandArguments>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|x64'">
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development_Editor|x64'">
-    <LocalDebuggerCommandArguments>"$(SolutionDir)ActionGame.uproject" -skipcompile</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>"D:\Disk D\Unreal\CPP_pro\UnrealCPPPrototypes\ActionGame\ActionGame.uproject" -skipcompile</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <RemoteDebuggerCommandArguments>"D:\Disk D\Unreal\CPP_pro\UnrealCPPPrototypes\ActionGame\ActionGame.uproject" -skipcompile</RemoteDebuggerCommandArguments>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|x64'">
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>

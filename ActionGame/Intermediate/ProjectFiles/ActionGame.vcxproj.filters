@@ -11,6 +11,7 @@
     <None Include="..\..\Source\ActionGameEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -39,6 +40,18 @@
       <Filter>Source\ActionGame</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\ActionGame\ActionGameGameModeBase.h">
+      <Filter>Source\ActionGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ActionGame\MainCharacter.cpp">
+      <Filter>Source\ActionGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ActionGame\MainCharacter.h">
+      <Filter>Source\ActionGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ActionGame\MyObject.cpp">
+      <Filter>Source\ActionGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ActionGame\MyObject.h">
       <Filter>Source\ActionGame</Filter>
     </ClInclude>
   </ItemGroup>
